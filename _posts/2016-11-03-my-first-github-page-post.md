@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "开启GitHub-Page"
+title:  "第一篇GitHub-Page"
 date:   2016-11-03 22:55:58 +0800
 categories: 生活
 ---
