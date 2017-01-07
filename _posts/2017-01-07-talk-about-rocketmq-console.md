@@ -1,9 +1,11 @@
 
 layout: post
-title:  "从rocketMQ-console说起"
+title:  "Talk About Rocketmq Console"
 date:   2017-01-07 17:00:58 +0800
 categories: RocketMq
 ---
+
+
 
 # 我所理解的RocketMQ-Console
 ## 什么是rocketmq-console-ng
@@ -45,6 +47,7 @@ rocketmq-console-ng是为[incubator-rocketmq](https://github.com/apache/incubato
 可能更多的关注自己发送/接受消息的投递/消费情况。我的消息发成功了吗？都有谁消费？能发个测试消息吗？为什么消费失败了。。等等
 
 * 作为rocketMQ的管理员：
+
 可能更多的关注我们有哪些节点，各个broker现在状态如何？投递消息有多少延迟？哪些消息积压了？。。等等
 
 ### 那么从使用习惯和功能划分上看，可以分为以下一些模块：
@@ -107,6 +110,7 @@ rocketmq-console-ng是为[incubator-rocketmq](https://github.com/apache/incubato
 最近也有一些朋友提出了一些目前console 或者说Admin Cli的问题（需求），看起来也是需要权衡和完善的。
 
 比如：
+
 * 删除了Topic但是还是会被消费
 * 想看单纯的rocketMQ的硬盘占用情况
 
