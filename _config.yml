@@ -46,3 +46,4 @@ paginate_path: "/page:num/"
 markdown: kramdown
 kramdown:
   input: GFM
+gems: [jekyll-paginate, jekyll-gist]
