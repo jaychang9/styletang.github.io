@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "我理解的rocketMQ-console"
+date:   2016-11-07 17:00:02 +0800
+categories: 生活
+---
 ## 什么是rocketmq-console-ng
 
 rocketmq-console-ng是为[incubator-rocketmq](https://github.com/apache/incubator-rocketmq)量身打造的一个web控制台。通过它我们可以对rocketMQ进行状态查看，配置变更，管理操作各个节点。
