@@ -2,7 +2,7 @@
 layout: post
 title:  "我理解的rocketMQ-console"
 date:   2016-11-07 17:00:02 +0800
-categories: 生活
+categories: RocketMQ
 ---
 ## 什么是rocketmq-console-ng
 
